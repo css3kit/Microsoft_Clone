@@ -4,4 +4,4 @@
 
 ###### Screenshot:
 
-![](/images/micorosft_clone.png)
+![](images/micorosft_clone.png)
