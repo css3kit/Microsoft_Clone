@@ -79,7 +79,8 @@ ul {
   padding: 10px 20px;
   background: #262626;
   color: #FFFFFF;
-  font-size: 15px;;
+  font-size: 15px;
+  ;
 }
 
 .btn:hover {
@@ -263,9 +264,9 @@ ul {
   .main-nav ul.main-menu {
     display: block;
     position: absolute;
-    top:0;
+    top: 0;
     left: 0;
-    background:  #F2F2F2;
+    background: #F2F2F2;
     width: 50%;
     height: 100%;
     border-right: #CCCCCC 1px solid;
